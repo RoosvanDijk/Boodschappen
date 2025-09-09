@@ -1,6 +1,0 @@
-mijn-app/
-├─ index.html      (Home)
-├─ over.html       (Over mij)
-├─ contact.html    (Contact)
-├─ style.css       (alle pagina’s gebruiken deze)
-└─ script.js       (optioneel, voor knopjes of alerts)

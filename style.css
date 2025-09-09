@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background: #f0f4f8;
+}
+h1 { color: #007aff; }
+.dish {
+  background: #fff;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+.dish.selected { border: 2px solid #007aff; }
+button {
+  background: #007aff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px;
+}
+button:active { background: #005bb5; }
+#cart { margin-top: 20px; text-align: left; }
+h2 { color: #007aff; margin-top: 30px; }
